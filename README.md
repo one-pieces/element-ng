@@ -1,5 +1,7 @@
 # ElementNg
 
+####An elegant UI Toolkit of Angular 4, Ideas from [Element](https://github.com/one-pieces/element)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
 ## Development server
