@@ -1,6 +1,28 @@
-.banner {
-  text-align: center;
-  img {
-    width: 500px;
-  }
+#layout-topbar {
+  background-color: #20a0ff;
+  box-sizing: border-box;
+  display: block;
+  padding: 0;
+  height: 80px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9000;
+}
+
+#layout-sider {
+  position: fixed;
+  left: 0;
+  top: 80px;
+  height: 100%;
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 300px;
+}
+
+#layout-content {
+  margin-left: 300px;
+  padding-top: 80px;
+  background-color: #ffffff;
 }
