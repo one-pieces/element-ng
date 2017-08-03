@@ -10,7 +10,17 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "keywords": [
+    "angular4",
+    "components",
+    "javascript",
+    "ng-components",
+    "ui-kit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/one-pieces/element-ng.git"
+  },
   "dependencies": {
     "@angular/animations": "^4.0.0",
     "@angular/common": "^4.0.0",
