@@ -1,6 +1,6 @@
 # ElementNg
 
-### An elegant UI Toolkit of Angular 4, Ideas from [Element](http://element.eleme.io/#/zh-CN)
+### An elegant UI Toolkit of Angular 4, ideas from [Element](http://element.eleme.io/#/zh-CN)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
